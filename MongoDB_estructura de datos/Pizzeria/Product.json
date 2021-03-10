@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "604867a31e24365843472794"
+  },
+  "category": "Pizza",
+  "description": "Pizza. D:30cm. Pasta + cheese.",
+  "image": "",
+  "name": "Pizza Marguerita",
+  "price": 10.5,
+  "product_id": "4"
+}]

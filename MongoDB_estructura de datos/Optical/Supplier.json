@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "604871731e24365843472797"
+  },
+  "address": {
+    "state": "Cataluña",
+    "city": "Barcelona",
+    "zip": "08001",
+    "stret": "Rambla",
+    "number": "10",
+    "coordinates": [
+      41.2324738,
+      9.144252
+    ]
+  },
+  "supplier_id": 2
+}]

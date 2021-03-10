@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "604872d31e2436584347279a"
+  },
+  "client_id": 1,
+  "order_id": 7,
+  "supplier_id": 2,
+  "products": [
+    {
+      "left_lens_prescription": 2,
+      "right_lens_prescription": 1.75,
+      "left_lens_colour": "Transparent",
+      "right_lens_colour": "Transparent",
+      "frame_type": "Plastic",
+      "frame_colour": "Black",
+      "price": 90.5,
+      "brand": "Ray-Ban"
+    }
+  ],
+  "total_price": 90.5
+}]

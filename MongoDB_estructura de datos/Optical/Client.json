@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "60486fb31e24365843472796"
+  },
+  "address": {
+    "state": "Cataluña",
+    "city": "Barcelona",
+    "zip": "08010",
+    "street": "Diagonal",
+    "number": "100",
+    "coordinates": [
+      41.2324738,
+      9.144252
+    ]
+  },
+  "client_id": 1,
+  "firstname": "John",
+  "lastname": "Meyer",
+  "phone": "616161616",
+  "input_date": {
+    "$date": "2001-01-31T22:59:00Z"
+  },
+  "email": "johnmeyer@gmail.com",
+  "recommended_by": {
+    "client_id": "5"
+  }
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "604864e11e24365843472793"
+  },
+  "store_id": 2,
+  "address": {
+    "state": "Cataluña",
+    "city": "Barcelona",
+    "zip": "08001",
+    "stret": "Rambla",
+    "number": "10",
+    "coordinates": [
+      41.2324738,
+      9.144252
+    ]
+  },
+  "employee": [
+    {
+      "employee_id": 3,
+      "firstname": "Peter",
+      "lastname": "May",
+      "nif": "55555",
+      "phone": "666111666",
+      "role": "Sales"
+    }
+  ]
+}]

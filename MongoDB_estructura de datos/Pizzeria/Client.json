@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6048605b1e24365843472790"
+  },
+  "address": {
+    "state": "Cataluña",
+    "city": "Barcelona",
+    "zip": "08010",
+    "street": "Diagonal",
+    "number": "100",
+    "coordinates": [
+      41.2324738,
+      9.144252
+    ]
+  },
+  "client_id": 1,
+  "firstname": "John",
+  "lastname": "Meyer",
+  "phone": "616161616"
+}]
